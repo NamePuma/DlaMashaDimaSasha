@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Khg6i/4c8b6fSPMAWKClEKRgLjR6g3YPZCdm8kAI39o/xHLqLYCvFYT1rvbTJ8kZADA5pP/kNHAZAHW13ysgbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
